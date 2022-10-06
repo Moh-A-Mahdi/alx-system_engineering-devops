@@ -1,2 +1,3 @@
-0x00 Shell, basics
-Done...
+* 0x00 Shell, basics
+* 0x01 Shell, permissions
+* ___Done...___
