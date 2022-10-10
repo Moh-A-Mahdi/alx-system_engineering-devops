@@ -1,3 +1,4 @@
 * 0x00 Shell, basics
 * 0x01 Shell, permissions
-* ___Done...___
+* 0x02 Shell, I/O Redirections and filters
+* __Done__
