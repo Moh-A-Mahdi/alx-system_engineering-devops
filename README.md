@@ -1,5 +1,5 @@
 ![Alt][1]
-# ALX SE - Low Level Programming
+# ALX SE - System engineering & DevOps
 ## By Mohamed A. Mahdi
 ### Description
 
