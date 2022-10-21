@@ -1,6 +1,6 @@
 # Shell basics
 
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about what is the shell, basics commands (`cd`, `ls`, `pwd`, ... ) and the difference between a terminal and a shell
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about the shell, basics commands (`cd`, `ls`, `pwd`, ... ) and the difference between a terminal and a shell
 
 ## Files
 All of the following files are scripts.
