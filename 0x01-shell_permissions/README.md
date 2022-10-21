@@ -1,5 +1,5 @@
 # Shell permissions
-
+ 
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about Linux file permissions, represent each of the three sets of permissions (owner, group, and other) as a single digit, change permissions and commands (`chmod`, `sudo`, `su`, `chown`, ... ).
 
 ## Files
