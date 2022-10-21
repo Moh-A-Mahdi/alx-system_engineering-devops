@@ -1,4 +1,4 @@
-# Shell I/O Redirection
+# Shell I/O Redirections and filters
 
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about __How to:__ 
 * Rredirect standard output to a file.
